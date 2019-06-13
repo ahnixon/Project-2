@@ -1,5 +1,4 @@
 ## The below fuctions cache the inverse of a matrix
-## functions do
 
 ## Creates a Matrix that can Cache it's inverse
 
